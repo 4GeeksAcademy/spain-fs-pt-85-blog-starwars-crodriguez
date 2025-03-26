@@ -1,0 +1,41 @@
+.logo {
+    Width: 120px;
+    height: 80px;
+    margin-left: 100px;
+}
+
+.carrousel {
+    overflow-x: scroll;
+    width: 100%;
+    display: flex;
+}
+
+.character {
+    min-width: 400px;
+    min-height: 50px;
+    margin-right: 8px;
+}
+
+.character-image {
+    width: 300px;
+    height: auto;
+  }
+
+.planets {
+    min-width: 300px;
+    min-height: 50px;
+    margin-right: 8px;
+}
+
+.vehicles {
+    min-width: 300px;
+    min-height: 50px;
+    margin-right: 8px;
+}
+
+.footercard {
+    display: flex;
+    justify-content: space-between;
+    align-items:initial;
+
+}
